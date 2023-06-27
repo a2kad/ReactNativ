@@ -1,1 +1,0 @@
-#Test of React Nativ
